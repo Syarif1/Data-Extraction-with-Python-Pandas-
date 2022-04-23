@@ -1,2 +1,2 @@
-# Data-Extraction-with-Python-Pandas
-Mini Project JSK Jeans Data Extraction with Python Pandas 
+# Data Extraction / Web Scraping
+Mini Project JSK Jeans https://www.jskjeans.co.id/ Data Extraction with Python Pandas 
